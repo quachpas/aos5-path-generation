@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 jupyterlab = "*"
 pulp = "*"
+networkx = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+scipy = "*"
+cplex = "*"
 
 [dev-packages]
 jupyterlab-vim = "*"
