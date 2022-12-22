@@ -5,12 +5,20 @@
 - Maxime Delboulle
 - Pascal Quach
 
-## Instructions
+## Path Generation
 
-- courte présentation ;
-- benchmark instances petites/grandes ; 
-- comparaison formulation standard.
-- rapport ~6 pages
+An implementation of path generation to solve the maximum flow problem via the path formulation is available in the [notebook](src/path_generation.ipynb)
 
-date butoir : janvier 2023.
+## Installation
 
+We use [pipenv](https://pipenv.pypa.io/en/latest/install/).
+
+```
+pipenv install
+```
+
+To launch the jupyter environment:
+
+```
+jupyter lab
+```

@@ -11,6 +11,8 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 scipy = "*"
+tqdm = "*"
+gurobipy = "*"
 
 [dev-packages]
 jupyterlab-vim = "*"
