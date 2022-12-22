@@ -13,6 +13,7 @@ matplotlib = "*"
 scipy = "*"
 tqdm = "*"
 gurobipy = "*"
+seaborn = "*"
 
 [dev-packages]
 jupyterlab-vim = "*"
